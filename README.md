@@ -3,4 +3,5 @@
 
 ## resources:
 https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw
+http://www.omdbapi.com/
 
