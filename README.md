@@ -62,3 +62,4 @@ After scraping the data, I needed to clean it up so that it was usable for eda. 
 *  Creating countplot to visualize most common genres or combinations of genres in the dataset
 *  How successful were the movies who won an Oscar comparing to the ones who didn't? Measuring the awards and nominations they recieved.
 *  Plot for  Academy Awards and nominations for Best International Feature Film  by country
+*  Checking the most common words used in the plot
