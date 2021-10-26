@@ -5,7 +5,7 @@
 * **Python Version:** 3.8
 * **Jupiter Notebook:** 6.3
 * **Web Scraping:** https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw , http://www.omdbapi.com/
-* **Packages:**  BeautifulSoup, pandas, numpy, matplotlib, seaborn, json, pickle
+* **Packages:**  BeautifulSoup, pandas, numpy, matplotlib, seaborn, json, pickle, nltk
 
 ## Web Scraping
 **I am scraping data from wikipedia page using BeautifulSoup library, also I am using omdbapi.com for scraping some missing data.**
